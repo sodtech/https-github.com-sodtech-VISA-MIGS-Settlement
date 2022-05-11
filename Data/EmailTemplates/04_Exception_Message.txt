@@ -1,0 +1,19 @@
+Dear Team,
+
+While attempting to run VISA MIGS  Domestic Settlement process, I encountered the following error:
+
+ExceptionMessage
+
+These error can fix in two ways:
+
+1. Go to the process config settings and change date to match the date
+   in the processing report file to finished the pending job.
+
+2. Go the processing folder and delete the processing report name [MIGSBot_WorkLog] to start a new job.
+
+NB: No 2, the pending task will be lost. No 1 is recommended.
+
+Please do any of the above option and retry.
+
+Regards,
+MIGS Bot

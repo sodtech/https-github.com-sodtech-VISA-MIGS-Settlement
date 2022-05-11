@@ -1,0 +1,11 @@
+Dear Team,
+
+While attempting to run VISA MIGS  Domestic Settlement process, I encountered the following error:
+
+ExceptionMessage
+
+See attached for more information
+Kindly change the password and also the password must be update in the UiPath Orchestrator.
+
+Regards,
+MIGS Bot

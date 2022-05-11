@@ -1,0 +1,10 @@
+Dear Team,
+
+While attempting to run VISA MIGS  Domestic Settlement process, I encountered the following error:
+
+ExceptionMessage
+
+Kindly retry later, Thank you.
+
+Regards,
+MIGS Bot
